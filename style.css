@@ -1,0 +1,14 @@
+.delete-button {
+    font-size: 15px;
+    border-color: #1548ac;
+    background-color: #1548ac;
+    color: #fff;
+    border-radius: 6px;
+}
+
+.div-text {
+    font-family: 'Roboto', 'Bold';
+    font-size: 18px;
+    font-weight: 500;
+    margin: 5px 3px;
+}
